@@ -1,1 +1,1 @@
-# GoGcFlags-
+# Go Flags
